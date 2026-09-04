@@ -1,0 +1,95 @@
+.bg-container{
+    background-color: rgb(206, 204, 204);
+    background-size: cover;
+    padding: 15px;
+}
+.card-container_1{
+    background-color:white;
+    padding-top: 30px;
+    
+   
+}
+
+
+.card-container_2{
+    background-color: rgb(53, 95, 69);
+    padding: 20px;
+
+    
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  
+}
+
+.heading{
+    font-family:"Roboto";
+    color: white;
+    
+    
+    padding-right: 20px;
+}
+
+.button{
+    font-family:"Roboto";
+    font-weight: 600;
+    text-align: center;
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    border-radius: 12px;
+    color: green;
+}
+
+.card-heading{
+    font-family:"Roboto";
+    font-size: 15px;
+    font-weight: bold
+    
+}
+
+.card-headings{
+    font-family:"Roboto";
+    color: gray;
+    font-size: 13px;
+}
+
+.para{
+    font-family:"Roboto";
+    font-size: 15px;
+}
+
+.button1{
+    background-color: rgb(235, 160, 57);
+    color: white;
+    font-family:"Roboto";
+    border-color:rgb(233, 139, 16);
+    border-radius: 8px
+}
+
+.button2{
+    background-color: white;
+    border-color: white; 
+    font-family:"Roboto";
+    color: black;
+    border-color: white;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: column; 
+    justify-content:flex-end;
+    align-items: flex-end;
+}
+
+.image{
+    width:270px;
+    margin-right: 0px;
+}
+
+.headings{
+    font-family:"Roboto";
+    color: gray;
+    font-size: 16px;
+}
