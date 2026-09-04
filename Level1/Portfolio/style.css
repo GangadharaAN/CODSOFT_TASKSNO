@@ -1,0 +1,82 @@
+.top-bg-container {
+    background-color: gray;
+    background-size: cover;
+    padding: 10px;
+}
+
+.top-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 17px;
+    margin: 6px;
+    font-weight: bold;
+}
+
+.top-para {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.middle-bg-container {
+    background-color: black;
+    background-size: cover;
+    margin: 0px;
+
+}
+
+.name-heading {
+    font-family: "Roboto";
+    color: white;
+}
+
+.para {
+    font-family: "Roboto";
+    color: white;
+    font-size: 25px;
+}
+
+.button {
+    width: 130px;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.below-bg-container {
+    background-color: white;
+    background-size: cover;
+    margin: 0px;
+
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.horizontal-line {
+    background-color: blue;
+    width: 50px;
+    font-weight: bold;
+    margin-left: 0px;
+}
+
+.para_1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.para_2 {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.button_1 {
+    width: 200px;
+    font-family: "Roboto";
+    text-align: center;
+}
